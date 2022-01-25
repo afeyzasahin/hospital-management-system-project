@@ -76,6 +76,7 @@ Price int,
 Quantity varchar(255),
 primary KEY(Medicine_ID)
 );
+
 CREATE TABLE NURSE(
 Nurse_ID int not null,
 NPhone_Number char(11),
